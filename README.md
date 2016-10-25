@@ -1,2 +1,2 @@
-# Sistemas-Operativos
-##Peer reviews y presentaciones de la clase.
+# Operating Systems
+##Peer reviews and class presentations.
