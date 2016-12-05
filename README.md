@@ -1,2 +1,2 @@
 # Operating Systems 
-##Peer reviews and class presentations.
+##Peer reviews, class presentations and surveys.
